@@ -1,0 +1,4 @@
+Hello from Git lerne
+second line
+Third line from remote repository
+git pull = git fetch + git merge
